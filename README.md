@@ -1,4 +1,5 @@
 # cs5300
+# By Rick Stanton
 Contains materials for course CS5300<br /><br />
 
 Be careful running the python versions.  They will not work with all versions of the data.  Here are versions that are guaranteed to work.<br />
