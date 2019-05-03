@@ -1,4 +1,4 @@
-# cs5300
+# Final Project for CS5300
 # By Rick Stanton
 Contains materials for course CS5300<br /><br />
 
